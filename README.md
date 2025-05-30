@@ -27,9 +27,6 @@ A modern, scalable Next.js boilerplate project with TypeScript, Prisma, PostgreS
    npm install
    ```
 3. Set up your environment variables:
-   ```bash
-   cp .env.example .env.local
-   ```
    Update the `.env.local` file with your PostgreSQL credentials.
 
 4. Run database migrations:
